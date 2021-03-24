@@ -60,5 +60,5 @@ LTTS Intern
 
 1.  [DemoKart Console APP](https://github.com/99003606/DemoKart)
 2.  [DemoKart WebAPP](https://dev.azure.com/kummarikuntlamanikanth/_git/99003606_DemoKart_App)
-3.  [Embadded Lab Management System API](https://dev.azure.com/kummarikuntlamanikanth/_git/99003606_Emb_Lab_Mgmt)
+3.  [Embedded Lab Management System API](https://dev.azure.com/kummarikuntlamanikanth/_git/99003606_Emb_Lab_Mgmt)
 
