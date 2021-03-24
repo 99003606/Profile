@@ -45,15 +45,15 @@ LTTS Intern
 
 ## Certification
 
-[Hackerrank Caertificate](https://www.hackerrank.com/certificates/065874f1cb17)
+[Hackerrank Caertificate](https://www.hackerrank.com/certificates/f3696422cd63)
 
-![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+![hackerRankC#](https://github.com/99003606/Profile/blob/main/New%20folder/CT.png)
 
 ## Links
 
-[Azure Repositories](https://dev.azure.com/rishabhsoni0145)
+[Azure Repositories](https://dev.azure.com/kummarikuntlamanikanth)
 
-[Github Repositories](https://github.com/99003508)
+[Github Repositories](https://github.com/99003606?tab=repositories)
 
 ## Projects:
 
