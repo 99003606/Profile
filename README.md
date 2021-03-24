@@ -1,4 +1,5 @@
 # Kummarikuntla Manikanth
+
 PSNo-99003606
 Email:-kummarikuntla.manikanth@ltts.com
 Mobile:-8096252722
@@ -45,7 +46,7 @@ LTTS Intern
 
 ## Certification
 
-[Hackerrank Caertificate](https://www.hackerrank.com/certificates/f3696422cd63)
+[Hackerrank Certificate](https://www.hackerrank.com/certificates/f3696422cd63)
 
 ![hackerRankC#](https://github.com/99003606/Profile/blob/main/New%20folder/CT.png)
 
