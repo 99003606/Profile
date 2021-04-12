@@ -51,7 +51,7 @@ LTTS Intern
 
 [Hackerrank Certificate](https://www.hackerrank.com/certificates/f3696422cd63)
 
-![HackerRankSQL]https://github.com/99003606/Profile/blob/main/New%20folder/HakerRank.png?raw=true
+[HackerRank Certificate SQL](https://www.hackerrank.com/certificates/b1a33ec5f4b8)
 
 ![hackerRankC#](https://github.com/99003606/Profile/blob/main/New%20folder/CT.png)
 
