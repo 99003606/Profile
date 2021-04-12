@@ -55,6 +55,8 @@ LTTS Intern
 
 ![hackerRankC#](https://github.com/99003606/Profile/blob/main/New%20folder/CT.png)
 
+![hackaerRankSQL](https://github.com/99003606/Profile/blob/main/New%20folder/HakerRank.png?raw=true)
+
 ## Links
 
 [Azure Repositories](https://dev.azure.com/kummarikuntlamanikanth)
